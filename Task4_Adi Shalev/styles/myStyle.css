@@ -1,0 +1,95 @@
+body 
+{
+    direction:rtl;
+}
+#container
+{
+    margin: 0 auto;
+    width:1300px;
+ 
+   
+}
+body
+{
+    background-image: url(../Image/Thech.jpg); 
+    background-size: cover;
+  
+}
+header img
+{
+    height: 270px;
+    width: 500px;
+    margin-right: 400px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+form
+{
+    width: 700px;
+    margin-right: 300px;
+    margin-bottom: 15px;
+    border: double;
+    background-color: #2b5568;
+    color: white;
+}
+form h1
+{
+    margin-top: 7px;
+    margin-bottom: 10px;
+     padding-right: 3px;
+
+}
+form label, input, select
+{
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+}
+#dis, #tech, #had {
+    width: 150px;
+    display: inline-block;
+}
+#hit img {
+    width: 170px;
+    height: 50px;
+}
+#dis {
+  padding-right: 410px;
+}
+h2 {
+    padding-right: 32px;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+#dis a {
+    padding-right: 20px;
+}
+h3 {
+  padding-right: 15px;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+#tech a {
+    padding-right: 17px;
+}
+h4 {
+    padding-right: 23px;
+     font-size: 20px;
+    margin-bottom: 3px;
+}
+#had a {
+    padding-right: 20px;
+}
+#dis, #tech, #had {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+#hit a{
+    margin-right: 555px;
+}
+#hit {
+     margin-bottom: 20px;
+     margin-top: 5px;
+}
